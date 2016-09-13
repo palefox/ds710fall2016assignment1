@@ -1,8 +1,8 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
-1. What is your name?
-2. Why are you interested in Data Science?
-3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
-4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Do you have other experience with R or Python?
-6.  What do you hope to learn in this class?
-7.  Is there anything else you would like to share with us?
+1. Traci Scott
+2. I am a bit of a number junkie. I loved my statistics class more than any other but only took it my senior year. I am incredibly interested in public health, education, sustainability, and human rights. My procrastination habits (can it be a "hobby" since it's a daily investment that's been ongoing for years?) are in reading Scientific American, the Atlantic, NPR, NYT, BBC News, and an occasional PBS or PsychToday article... I really loved that in the ds700 introductory video Gaurav said that Data Science can take things from the subjective to the analytical. Nothing can be more honest than numbers. The only way they are inaccurate is with the human element effect. Ever since I was small I very much valued accuracy and precision and still struggle with understanding how people can override that desire and twist [or deny] the truth. I am always eager to understand the world more deeply. Through Data Science we will be taking on the challenge of redefining what is considered gray into black and white and potentially vice versa. It will be us taking all that respectable hard work of those who have amassed such a treasure trove of data and making it more accessible and more actionable. 
+3. In 2003 I had a C++ course that my life at the time did not allow me to give it the attention it deserved. I recently finished an SQL course through UW-Madison. 
+4.  I have only taken Elementary Statistics my senior year. And. I. Loved. It. 
+5.  No.
+6.  I hope to learn what my instructors intend for me to learn. I don't know that I even have to vocabulary at this point to state what objectives will be reached. 
+7.  I'm enrolled in 9 credits of DS courses. I am a single mother of a 4 1/2 year old that I have full time custody of. 
